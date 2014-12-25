@@ -1,0 +1,12 @@
+<div ng-controller="portfolioCtrl">
+    <ol class="breadcrumb orange">
+        <li>{{title}}</li>
+    </ol>
+    <div class="row" ng-repeat="row in rows">
+        <li role="presentation" class="divider" style="background: #f0ad4e"></li>
+        <div class="col-sm-6 col-md-4" ng-repeat="proj in row">
+            <thumbnail proj="proj"></thumbnail>
+        </div>
+             
+    </div>
+</div>

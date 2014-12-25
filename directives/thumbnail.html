@@ -1,0 +1,26 @@
+<div class="thumbnail" style='background: #f7e1b5'>
+    <img alt="Interactive CV" class="img-rounded" ng-src="{{ proj.imgUrl }}">
+    <div class="caption">
+        <h3>{{ proj.caption }}</h3>
+        <dl>
+            <dd class="text-info"><em>Description:</em> {{ proj.description }}</dd>
+            <dd class="text-info"><em>Library:</em> {{ proj.lib }}</dd>
+            <dd ng-if="proj.testTool" class="text-info">
+                <em>Testing tool:</em> {{ proj.testTool }}</dd>
+            </dd>
+            <dd ng-if="proj.projUrl" class="text-info"> 
+                <strong><a ng-href={{proj.projUrl}}>Demo page</a></strong>
+            </dd>
+            
+            <dd ng-if="proj.youtubeUrl">
+                <img src="./images/youtube.png">
+                <a href="#" role="button" ng-click="openProj()">Youtube</a>
+            </dd>
+            
+            <dd ng-if="proj.githubUrl">
+                <img src="./images/github.png" style="width:17px;height:17px;">
+                <strong><a ng-href={{proj.githubUrl}}>Github</a></strong>
+            </dd>
+        </dl>
+    </div>
+</div>
