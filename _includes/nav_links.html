@@ -5,11 +5,21 @@
 	</div>
 	<div class="collapse navbar-collapse">
 		<ul class="nav nav-pills navbar-right">
-			<li role="presentation" class="active"><a href="/">Who we are</a></li>
-			<li role="presentation" ><a href="/whatwedo">What we do</a></li>
-			<li role="presentation" ><a href="/howwework">How we work</a></li>
-			<li role="presentation" ><a href="/portfolio">Portfolio</a></li>
-			<li role="presentation" ><a href="/contact">Contact us</a></li>
+			<li role="presentation" class={% if page.url == '/index.html' %}"active"{% endif %} >
+				<a href="/">Who we are</a>
+			</li>
+			<li role="presentation" class={% if page.url == '/whatwedo/index.html' %}"active"{% endif %} > 
+				<a href="/whatwedo">What we do</a>
+			</li>
+			<li role="presentation" class={% if page.url == '/howwework/index.html' %}"active"{% endif %} >
+				<a href="/howwework">How we work</a>
+			</li>
+			<li role="presentation" class={% if page.url == '/portfolio/index.html' %}"active"{% endif %} >
+				<a href="/portfolio">Portfolio</a>
+			</li>
+			<li role="presentation" class={% if page.url == '/contact/index.html' %}"active"{% endif %} >
+				<a href="/contact">Contact us</a>
+			</li>
 		</ul>
 	</div><!-- end of navbar-collapse -->
 </div><!-- end of container-fluid -->
