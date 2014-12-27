@@ -1,0 +1,12 @@
+---
+layout: post 
+title: Customers say 
+---
+Customer say
+<ul>
+	{% for post in site.customersay %}
+	<li>
+    {{post.content}}
+	</li>
+	{% endfor %}
+</ul>
