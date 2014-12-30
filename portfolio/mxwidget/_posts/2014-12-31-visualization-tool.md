@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: portfolio 
 title: Visualizaton tool 
 ---
 Visualization tool

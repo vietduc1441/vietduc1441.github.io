@@ -1,12 +1,6 @@
 ---
-layout: default
+layout: portfolio 
 title: Hybrid moble app 
+category: hybridmobileapp
 ---
 Hybrid mobile apps by phonegap
-<ul>
-	{% for post in site.categories.hybridmobileapp %}
-	<li>
-		<a href="{{ post.url }}">{{post.title}}</a>
-	</li>
-	{% endfor %}
-</ul>
