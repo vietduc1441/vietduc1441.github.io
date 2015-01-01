@@ -2,7 +2,7 @@
 layout: post
 title: Understanding 
 ---
-# More conversation for better understanding 
+# Effective communication 
 {% highlight javascript %}
 
     function make_software_you_want(){
@@ -11,4 +11,7 @@ title: Understanding
         return (we_know+we_encourage)
     } 
 {% endhighlight %}
+
 ![scrum](/images/conversation.jpg)
+
+## You and us will be friends after all. 
