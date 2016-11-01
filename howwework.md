@@ -3,7 +3,6 @@ layout: page
 title: How do we work 
 permalink: /howwework/
 ---
-# How do we work
 ## Magical Scrum
 
 {% highlight javascript %}
