@@ -1,4 +1,4 @@
 node_modules/
 **/*.swp
 _site/
-.sass_cache/
+.sass-cache/
