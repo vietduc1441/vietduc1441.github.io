@@ -4,7 +4,8 @@ title:  "SCH Hanoi"
 date:   2015-10-11 04:34:20
 categories: SCH
 highlight: true
-image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
+image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+
 ---
 SCH Hanoi is a young, beautiful, enegetic, handsome, awesome, superpower, extremelly ontime, killing attractive,..
 
