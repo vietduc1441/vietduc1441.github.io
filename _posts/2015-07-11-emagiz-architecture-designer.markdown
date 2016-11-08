@@ -6,11 +6,11 @@ categories: eMagiz
 author: SCH 
 image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
-eMagiz Achitecture designer
+Case: eMagiz, a Paas platform for messaging solution, allows business engineers to decide how to deploy message bus components. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-{% endhighlight %}
+Requirement: eMagiz wants to have a editor which visualizes and allows user to freely edit message bus architecture. 
 
+Feature:
+- drag/ drop system to different kind of deployable container. 
+- autolayout the message bus topology
+- preview of drag/drop
