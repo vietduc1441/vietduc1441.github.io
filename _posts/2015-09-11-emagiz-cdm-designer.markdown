@@ -5,8 +5,11 @@ date:   2015-09-11 13:34:20
 categories: Material
 author: SCH
 ---
-Flow designer
+Case: eMagiz, a Paas platform for messaging solution, allows business engineers creating full message flow from pre-defined components. 
 
-![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
+Requirement: eMagiz wants to have a graphical editor with following feature:
+- drag and drop items from component library to canvas workspace
+- components have ports as connectable points. 
+- components could be connected via lines by drag from and drop to port
 
-Flow design is ...
+Result:
