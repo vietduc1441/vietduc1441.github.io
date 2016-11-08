@@ -1,12 +1,17 @@
 ---
 layout: post
-title:  "eMagiz Flow designer"
+title:  "eMagiz Message Bus Designer"
 date:   2015-09-11 13:34:20
 categories: Material
 author: SCH
 ---
-Flow designer
+Case: eMagiz, a Paas platform for messaging solution, allows business engineers to create an enterprise message bus.
 
-![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
+Requirement: eMagiz wants to have a tool to visualize the current message bus. 
 
-Flow design is ...
+Feature:
+- autolayout systems in the bus
+- drag/drop to organize systems
+- visualize system's tenants
+
+Results
