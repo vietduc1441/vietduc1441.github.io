@@ -4,7 +4,7 @@ title:  "eMagiz Architecture designer"
 date:   2016-12-30 12:00:00
 categories: eMagiz
 author: SCH 
-image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png
 ---
 
 *__Case:__* eMagiz, a Paas platform for messaging solution, allows business engineers to decide how to deploy message bus components. 
