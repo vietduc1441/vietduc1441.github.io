@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Capturing and editing tool"
+title:  "Image Map Widget"
 date:   2015-09-11 13:34:20
 categories: Material
 author: SCH
