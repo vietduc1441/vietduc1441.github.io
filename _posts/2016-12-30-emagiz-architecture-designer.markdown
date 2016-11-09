@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eMagiz Architecture designer"
-date:   2015-07-11 11:34:20
+date:   2016-12-30 12:00:00
 categories: eMagiz
 author: SCH 
 image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
