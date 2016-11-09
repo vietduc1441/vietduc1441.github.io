@@ -18,3 +18,5 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 - drag/ drop system to different kind of deployable container. 
 - autolayout the message bus topology
 - preview of drag/drop
+
+![Architecture designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png "Architecture designer")
