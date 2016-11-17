@@ -9,7 +9,7 @@ image: vietduc1441.github.io/img/sch.jpg
 ---
 *__With 5 year experience, SCH constructs complex Javascript application__*
 
-*__We specialize on:__*
+*__We specialize in:__*
 
 - Tools to design information flow
 - Tools to design system architecture
