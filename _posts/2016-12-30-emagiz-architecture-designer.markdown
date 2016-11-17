@@ -11,7 +11,6 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 
 *__Requirement:__* eMagiz wants to have a editor which visualizes and allows user to freely edit message bus architecture. 
 
-
 *__Feature:__*
 
 - drag/ drop system to different kind of deployable container. 
@@ -20,5 +19,6 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 
 ![Architecture designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png "Architecture designer")
 
+*__Design in action__*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0"></iframe>
