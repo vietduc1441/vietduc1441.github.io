@@ -3,7 +3,7 @@ layout: post
 title:  "eMagiz Capture Designer"
 categories: eMagiz
 author: eMagiz Capture designer 
-image: https://40.media.tumblr.com/efb92b8cbb6741ffa5ce92e885ce6a83/tumblr_inline_nr5dqmvXlY1sif8wc_540.png
+image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/Create_infographic_thumb.png
 ---
 
 *__Case:__* eMagiz allows business engineers to describe requirement of intergration of multi-systems in a very intiutive ways. 
@@ -15,4 +15,7 @@ image: https://40.media.tumblr.com/efb92b8cbb6741ffa5ce92e885ce6a83/tumblr_inlin
 - Drag and drop to create then configure systems. 
 - Automatically layout
 - Drag and drop to create then configure intergrations between systems
+
+
+![Create designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/Create_infographic.png "create designer")
 
