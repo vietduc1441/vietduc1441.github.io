@@ -29,7 +29,7 @@ Some of framework/toolkit/language we are proficient:
 - Typescript, Javascript
 - Gulp, Grunt
 
-__Address__
+*__Contact info__*
 > House 3/4 alley 3/69/521 Truong Dinh Street
 
 > Hoang Mai District
