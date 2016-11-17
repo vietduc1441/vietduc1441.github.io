@@ -20,4 +20,5 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 
 ![Architecture designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png "Architecture designer")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0"></iframe>
