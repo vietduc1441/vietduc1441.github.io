@@ -5,13 +5,9 @@ date:   2015-09-11 13:34:20
 categories: Material
 author: SCH
 ---
-*__Case:__*
+*__Case:__* eMagiz, a Paas platform for messaging solution, allows business engineers to model Common Data Model.
 
-eMagiz, a Paas platform for messaging solution, allows business engineers to model Common Data Model.
-
-*__Requirement:__*
-
-eMagiz wants to have a graphical editor, similar to Microsoft Visio, to design schema of CDM. 
+*__Requirement:__*eMagiz wants to have a graphical editor, similar to Microsoft Visio, to design schema of CDM. 
 
 *__Feature:__*
 
