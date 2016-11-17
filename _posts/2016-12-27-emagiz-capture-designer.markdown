@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eMagiz Capture Designer"
-categories: mdl
+categories: eMagiz
 author: eMagiz Capture designer 
 image: https://40.media.tumblr.com/efb92b8cbb6741ffa5ce92e885ce6a83/tumblr_inline_nr5dqmvXlY1sif8wc_540.png
 ---
