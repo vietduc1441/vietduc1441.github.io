@@ -6,8 +6,6 @@ categories: eMagiz
 author: SCH 
 image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture_thumb.png
 ---
-*__Architecture Designer__*
-
 *__Case:__* eMagiz, a Paas platform for messaging solution, allows business engineers to decide how to deploy message bus components. 
 
 
@@ -21,3 +19,5 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 - preview of drag/drop
 
 ![Architecture designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png "Architecture designer")
+
+[![Architecture designer]](http://www.youtube.com/watch?v=exZioAvMC20)
