@@ -25,5 +25,6 @@ image: vietduc1441.github.io/img/sch.jpg
 Some of framework/toolkit/language we are proficient:
 
 - Mendix, MxGraph, Leaflet
-- Angular, jquery, dojo
-- Typescript, javascript
+- Angular, Jquery, Dojo
+- Typescript, Javascript
+- Gulp, Grunt
