@@ -4,7 +4,7 @@ title:  "SCH Hanoi"
 date:   2015-10-11 04:34:20
 categories: SCH
 highlight: true
-image:https://github.com/vietduc1441/vietduc1441.github.io/blob/master/img/sch.jpg
+image: vietduc1441.github.io/img/sch.jpg
 
 ---
 *__With 5 year experience, SCH constructs complex Javascript application__*
