@@ -27,9 +27,6 @@ __We are highly capable of creating widget for Mendix- based solution, both on-l
 - Typescript, Javascript
 - Gulp, Grunt
 
-*__Contact info__*
-
-
 
 |*Address*|
 |--------|
