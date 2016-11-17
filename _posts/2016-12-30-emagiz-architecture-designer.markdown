@@ -20,4 +20,6 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 
 ![Architecture designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture.png "Architecture designer")
 
-[![Architecture designer]](http://www.youtube.com/watch?v=exZioAvMC20)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=exZioAvMC20
+" target="_blank"><img src="http://img.youtube.com/vi/exZioAvMC20/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="560" height="315" border="10" /></a>
