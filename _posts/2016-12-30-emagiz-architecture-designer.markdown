@@ -2,7 +2,7 @@
 layout: post
 title:  "eMagiz Architecture designer"
 date:   2016-12-30 12:00:00
-categories: eMagiz
+categories: porfolio
 author: SCH 
 image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/infographic_design_architecture_thumb.png
 ---
