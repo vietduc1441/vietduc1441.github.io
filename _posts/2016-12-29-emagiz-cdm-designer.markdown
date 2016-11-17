@@ -8,7 +8,7 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 ---
 *__Case:__* eMagiz, a Paas platform for messaging solution, allows business engineers to model Common Data Model.
 
-*__Requirement:__*eMagiz wants to have a graphical editor, similar to Microsoft Visio, to design schema of CDM. 
+*__Requirement:__* eMagiz wants to have a graphical editor, similar to Microsoft Visio, to design schema of CDM. 
 
 *__Feature:__*
 
@@ -21,4 +21,4 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 
 *__Design in action__*
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0"></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/lV-HJW8bsrU?rel=0" frameborder="0" ></iframe>
