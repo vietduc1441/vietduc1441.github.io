@@ -2,7 +2,7 @@
 layout: post
 title:  "eMagiz Message Mapping Tool"
 date:   2015-09-11 13:34:20
-categories: Material
+categories: porfolio
 author: SCH
 image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/Design_MessageMapping%20_thumb.png
 ---
