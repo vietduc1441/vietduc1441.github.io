@@ -18,7 +18,7 @@ image: vietduc1441.github.io/img/sch.jpg
 - Editor
 - Map-based application
 
-*__We are highly capable of creating widget for Mendix- based solution, both on-line or offline. __*
+__We are highly capable of creating widget for Mendix- based solution, both on-line or offline __
 
 *__Technology__*
 
