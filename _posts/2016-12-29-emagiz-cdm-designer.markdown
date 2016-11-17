@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "eMagiz CDM designer"
-date:   2015-09-11 13:34:20
+date:   2016-12-29
 categories: porfolio
 author: SCH
 image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/design_cdm_emagiz_thumb.png
