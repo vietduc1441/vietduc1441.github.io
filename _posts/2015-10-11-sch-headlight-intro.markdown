@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SCH Hanoi"
-date:   2015-10-11 04:34:20
+date:   2017-1-1 00:00:01
 categories: SCH
 highlight: true
 image: vietduc1441.github.io/img/sch.jpg
