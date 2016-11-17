@@ -2,6 +2,7 @@
 layout: post
 title:  "eMagiz Capture Designer"
 categories: porfolio
+date:   2016-12-27
 author: eMagiz Capture designer 
 image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/Create_infographic_thumb.png
 ---
