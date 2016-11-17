@@ -38,9 +38,11 @@ Some of framework/toolkit/language we are proficient:
 > Hanoi, Vietnam
 
 Phone:
+
 > +84 948 069 354 
 
-Email: 
+Email:
+
 >d.bui@schhanoi.com
 
 
