@@ -32,8 +32,8 @@ __We are highly capable of creating widget for Mendix- based solution, both on-l
 
 
 |*Address*|*Phone:*|*Email:*|
-|:--------|--------|--------|
-| House 3/4 alley 3/69/521 Truong Dinh Street|    +84 948 069 354           |             d.bui@schhanoi.com|
+|--------|--------|--------|
+| House 3/4 alley 3/69/521 Truong Dinh Street|    *+84 948 069 354*           |             *d.bui@schhanoi.com* |
 
 | Hoang Mai District| | |
 
