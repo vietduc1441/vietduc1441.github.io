@@ -4,6 +4,7 @@ title:  "eMagiz CDM designer"
 date:   2015-09-11 13:34:20
 categories: Material
 author: SCH
+image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/design_cdm_emagiz_thumb.png
 ---
 *__Case:__* eMagiz, a Paas platform for messaging solution, allows business engineers to model Common Data Model.
 
@@ -16,3 +17,8 @@ author: SCH
 - simply choose/remove entity/attribute from CDM to generate System Message. 
 
 
+![Cdm designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/design_cdm_emagiz.png "Cdm designer")
+
+*__Design in action__*
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/exZioAvMC20?rel=0" frameborder="0"></iframe>
