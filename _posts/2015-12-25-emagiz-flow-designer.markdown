@@ -14,6 +14,11 @@ image: https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/maste
 - components have ports as connectable points. 
 - components could be connected via lines by drag from and drop to port
 
-Result:
 
 ![flow designer](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/flowDesigner_emagiz.png "flow designer")
+
+
+*__Design in action__*
+
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/2aS8D9GVwQw?rel=0" frameborder="0" ></iframe>
