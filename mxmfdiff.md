@@ -19,17 +19,16 @@ permalink: /mxmfdiff/
     - Attribute value
     - New settings of widget 
 
-It was impossible to developer to intereact with it.  
-  
-Since last year, Mendix have just had their SDK, making it possible to developers to read all mendix app info: mf, forms, domain models. 
+It was impossible to developer to intereact with it until last year. Then, Mendix have just had their SDK, making it possible to developers to read all mendix app info: mf, forms, domain models. 
 In theory, you can just load all information of a Mendix app and then it's up to you to cook them. 
 
-I think i have enought material in hand to implement that tool that allows user to ...
-For some of the first versions of the tool, I want to focus only on analyze Microflow and also get feedback of users on the tool. 
+I think i have enought material in hand to implement a tool that allows user to have better ways to review their modelling code. 
+For some of the first versions of the tool, I want to mainly focus on analyze Microflow and also get feedback of users on the tool.
+
 # 2. Chosen technology
-- React: build application by assemble different components
-- Mobx: find it's easy to learn and apply quickly
-- Electron: want to to be present as standanlone app. For the future, it's also easy to be converted to an online version.
+- React: for its ability to build application by assemble different components
+- Mobx: for its easiness to learn and apply quickly
+- Electron: for its ability to build standanlone app. For the future, it's also easy to be converted to an online version.
 # 3. Pre-requisite
 - You need to generate your APIKey. Following these steps to get one:
 # 4. Feature
