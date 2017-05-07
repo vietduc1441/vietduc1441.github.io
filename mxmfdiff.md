@@ -5,22 +5,26 @@ permalink: /mxmfdiff/
 ---
 
 # 1. Introduction: 
-- I am javascript developer. Like many others, I got to check my code before commit, review and merge code from colleages. 
-  Quite offten, i also work with mendix in server side. 
+- I am javascript developer, developing widgets for Mendix applications.
+  As a routine, I often check my code one time before commit, review and merge code from colleages. 
+  For that kind of work, one indispensable tool is "git diff". 
+  Quite often, i also work with Mendix modeller for  server side. 
   Great tool for business engineer by it's intuitive way to design the logic.
   In term of code review, What mendix can do:
     - Show list of changes between 2 revisions
     - Show overview history of microflow 
 
-- I think, What users want more.
-    - A more detailed look on changes of: 
+- Looking at another tool to do code review, Mendix user would want to have a look with more details on changes of: 
     - Xpath
     - Attribute value
     - New settings of widget 
 
-- Last year, Mendix just have their SDK, making it possible to developer to read all mendix app info: mf, forms, domain models.
-I think i have enought material in hand to implement that tool.
+It was impossible to developer to intereact with it.  
+  
+Since last year, Mendix have just had their SDK, making it possible to developers to read all mendix app info: mf, forms, domain models. 
 In theory, you can just load all information of a Mendix app and then it's up to you to cook them. 
+
+I think i have enought material in hand to implement that tool that allows user to ...
 For some of the first versions of the tool, I want to focus only on analyze Microflow and also get feedback of users on the tool. 
 # 2. Chosen technology
 - React: build application by assemble different components
