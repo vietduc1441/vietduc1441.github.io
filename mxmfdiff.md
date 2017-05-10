@@ -27,7 +27,7 @@ That's why for a long time, i was thinking about making a _**diff tool**_ for Me
 
 
 It was impossible to implement that kind of tool if you can not read Mendix code. 
-Luckily, last year, Mendix have just had their SDK, making it possible to developers to read all mendix apps info: Microflow, forms, domain models, web services. Just then, we decided to implemement **Mx DiffTool**
+Luckily, last year, Mendix have just had their SDK, making it possible to developers to read all mendix apps info: Microflow, forms, domain models, web services. Just then, we decided to implemement **diffTool**
 
 For some of the first versions of the tool, I want to mainly focus on analyzing Microflow, and also get feedback of users on the tool.
 
@@ -55,7 +55,6 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 - Overview bar so you can navigate to the changes faster.
 
 - Move microflows side by side.
-dd
 
 - Highlight associated microflow activities and their comparision.
 
