@@ -46,7 +46,7 @@ Note: You should save this APIKey since you can see it only once, and the tool d
 As you enter your username and ApiKey, the tool will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. 
 (What is an OnlineWorkingCopy? Link). And here is the list of features:
 
-- Show overview of new/edited/deleted microflows.
+- Show overview of new/edited/deleted microflows. Image
 
 - Visualize microflow as it is on Mendix Modeller.
 
@@ -55,15 +55,15 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 - Overview bar so you can navigate to the changes faster.
 
 - Move microflows side by side.
+dd
 
 - Highlight associated microflow activities and their comparision.
 
 # 5. Roadmap
-
 We have many ideas in mind for the next version. Here are some of them:
 
 - Store username & apiKey so user doesn't have to reenter.
 - Compare microflows between different branches
 - Upload a microflow from local to compare 
 - Compare microflows between different projects
-- Export microflow directly from the tool
+- Export microflow directly from the tool 
