@@ -43,16 +43,27 @@ https://docs.mendix.com/apidocs-mxsdk/apidocs/authentication
 Note: You should save this APIKey since you can see it only once, and the tool doesn't keep it (and any other information of you app).
 
 # 4. Feature
-As you enter your username and ApiKey, the toll will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. (What is an OnlineWorkingCopy? Link)
-And here is the list of features:
+As you enter your username and ApiKey, the tool will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. 
+(What is an OnlineWorkingCopy? Link). And here is the list of features:
 
-- Load the list of applications
-- Load 2 revisions and their microflows. For now Mendix just gives back full information of 20 latest revisions. For the rest, we just show the revision number with empty details.
-- As you move the microflow list dropdown, the microflows be loaded and compared on the fly. One of user's feedback mentioned that he could love to see only edited microlows and we think it's very reasonable. But if we compare all microflows, loading them all could take a lot of time so we decided to lazy load then compare only the ones user see. 
-- Visualize microflow as it is on Mendix Modeller
-- Properties of each action on Microflow is displayed as it is on Mendix Modeller
+- Show overview of new/edited/deleted microflows.
+
+- Visualize microflow as it is on Mendix Modeller.
+
+- Properties of Microflow action is displayed as it is on Mendix Modeller.
+
 - Overview bar so you can navigate to the changes faster.
+
 - Move microflows side by side.
-- Highlight associated microflow activities and their comparision
+
+- Highlight associated microflow activities and their comparision.
 
 # 5. Roadmap
+
+We have many ideas in mind for the next version. Here are some of them:
+
+- Store username & apiKey so user doesn't have to reenter.
+- Compare microflows between different branches
+- Upload a microflow from local to compare 
+- Compare microflows between different projects
+- Export microflow directly from the tool
