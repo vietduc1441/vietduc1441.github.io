@@ -46,15 +46,28 @@ Note: You should save this APIKey since you can see it only once, and the tool d
 As you enter your username and ApiKey, the tool will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. 
 (What is an OnlineWorkingCopy? Link). And here is the list of features:
 
-- Show overview of new/edited/deleted microflows. Image
+- Show overview of new/edited/deleted microflows.
+
+
 
 - Visualize microflow as it is on Mendix Modeller.
 
+![over_view](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/mf.png)
+
 - Properties of Microflow action is displayed as it is on Mendix Modeller.
+
+![properties](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/prop.png)
+
 
 - Overview bar so you can navigate to the changes faster.
 
+![ovvbar](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/ovvbar.png)
+
+
 - Move microflows side by side.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/UpkE3kJURWM?rel=0" frameborder="0" ></iframe>
+
 
 - Highlight associated microflow activities and their comparision.
 
