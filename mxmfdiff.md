@@ -61,7 +61,8 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 - Overview bar so you can navigate to the changes faster.
 
-![ovvbar](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/ovvbar.png)
+
+<img src="https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/ovvbar.png" style="width= 556px, height= 566px"></img>
 
 
 - Move microflows side by side.
