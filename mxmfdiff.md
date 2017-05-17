@@ -4,7 +4,7 @@ title: Mendix Microflow Diff tool
 permalink: /mxmfdiff/
 ---
 
-## 1. Introduction 
+### 1. Introduction 
 I am javascript developer, developing widgets for Mendix applications.
 As a routine, I often check my code one time before commit, review and merge code from colleages. 
 For that kind of work, one indispensable tool is "git diff" (do you know that the first diff utility was created in 1974?)
@@ -31,18 +31,18 @@ Luckily, last year, Mendix have just had their SDK, making it possible to develo
 
 For some of the first versions of the tool, I want to mainly focus on analyzing Microflow, and also get feedback of users on the tool.
 
-## 2. Chosen technology
+### 2. Chosen technology
 - React: for its ability to build application by assemble different components.
 - Mobx: for its easiness to learn and apply quickly.
 - Electron: for its ability to build standanlone app. For the future, it's also easy to be converted to an online version.
 
-## 3. Pre-requisite
+### 3. Pre-requisite
 - You need your APIKey. Following these steps to generate one:
 https://docs.mendix.com/apidocs-mxsdk/apidocs/authentication
 
 Note: You should save this APIKey since you can see it only once, and the tool doesn't keep it (and any other information of you app).
 
-## 4. Feature
+### 4. Feature
 As you enter your username and ApiKey, the tool will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. 
 (What is an OnlineWorkingCopy? Link). And here is the list of features:
 
@@ -72,7 +72,7 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 - Highlight associated microflow activities and their comparision.
 
-## 5. Roadmap
+### 5. Roadmap
 We have many ideas in mind for the next version. Here are some of them:
 
 - Store username & apiKey so user doesn't have to reenter.
