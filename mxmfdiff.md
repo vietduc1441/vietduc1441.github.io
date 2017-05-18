@@ -69,8 +69,9 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UpkE3kJURWM?rel=0" frameborder="0" ></iframe>
 
-
 - Highlight associated microflow activities and their comparision.
+
+![statusoverview](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/sttoverview.png)
 
 ## 5. Roadmap
 We have many ideas in mind for the next version. Here are some of them:
