@@ -48,7 +48,7 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 - Show overview of new/edited/deleted microflows.
 
-
+![statusoverview](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/sttoverview.png)
 
 - Visualize microflow as it is on Mendix Modeller.
 
@@ -71,7 +71,6 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 - Highlight associated microflow activities and their comparision.
 
-![statusoverview](https://raw.githubusercontent.com/vietduc1441/vietduc1441.github.io/master/img/sttoverview.png)
 
 ## 5. Roadmap
 We have many ideas in mind for the next version. Here are some of them:
