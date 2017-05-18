@@ -69,7 +69,9 @@ As you enter your username and ApiKey, the tool will use it to connect to Team S
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/UpkE3kJURWM?rel=0" frameborder="0" ></iframe>
 
-- Highlight associated microflow activities and their comparision.
+- Highlight associated microflow activities and their comparison.
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/Bnskh7YNqTs?rel=0" frameborder="0" ></iframe>
 
 
 ## 5. Roadmap
