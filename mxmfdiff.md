@@ -4,7 +4,7 @@ title: Mendix Microflow Diff tool
 permalink: /mxmfdiff/
 ---
 
-### 1. Introduction 
+### 1. How do you find a committed bug?
 I am javascript developer, developing widgets for Mendix applications.
 As a routine, I often check my code one time before commit, review and merge code from colleages. 
 For that kind of work, one indispensable tool is "git diff". 
