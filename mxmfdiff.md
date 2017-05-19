@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mendix Microflow Diff tool
+title: Mendix Diff Tool
 permalink: /mxmfdiff/
 ---
 
