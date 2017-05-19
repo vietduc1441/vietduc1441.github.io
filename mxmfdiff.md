@@ -41,7 +41,7 @@ For some of the first versions of the tool, I want to mainly focus on analyzing 
 - You need your APIKey. Following these steps to generate one:
 https://docs.mendix.com/apidocs-mxsdk/apidocs/authentication
 
-Note: You should save this APIKey since you can see it only once.
+Note: You should save this APIKey since you can see it only one.
 
 ### 4. Feature
 As you enter your username and ApiKey, the tool will use it to connect to Team Server to get the list of your applications and to create an OnlineWorkingCopy. 
