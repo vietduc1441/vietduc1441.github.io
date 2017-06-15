@@ -3,6 +3,7 @@ layout: page
 title: Mendix Diff Tool
 permalink: /mxmfdiff/
 ---
+tl;dr: you can download the tool at: http://mftool.schhanoi.com/
 
 ### 1. How do you find a committed bug?
 I am javascript developer, developing widgets for Mendix applications.
