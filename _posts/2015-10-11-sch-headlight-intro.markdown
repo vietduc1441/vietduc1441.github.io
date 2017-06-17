@@ -23,7 +23,7 @@ __We are highly capable of creating widget for Mendix- based solution, both on-l
 *__Technology__*
 
 - Mendix, MxGraph, Leaflet
-- Angular, Jquery, Dojo
+- React, Mobx, Angular, Jquery, Dojo
 - Typescript, Javascript
 - Gulp, Grunt
 
